@@ -4,4 +4,4 @@ Code Clause Web Development internship TASK 1(To-Do List)
 # Used technologies
 HTML5
 CSS
-JS
+JAVASCRIPT
